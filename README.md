@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/32850163/150695776-86ba1d5b-c5d7-4d59-89f7-2508db4a4075.png)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b11977f5-2371-42df-a30f-5672b6db2446/deploy-status)](https://app.netlify.com/sites/donmarvex/deploys)
 
 # A Simple Portfolio Website
 A Portfolio website built using HTML, CSS & JavaScript (from a HTML template), with a Flask server.
