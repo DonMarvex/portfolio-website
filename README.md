@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b11977f5-2371-42df-a30f-5672b6db2446/deploy-status)](https://app.netlify.com/sites/donmarvex/deploys)
-
 # A Simple Portfolio Website
 A Portfolio website built using HTML, CSS & JavaScript (from a HTML template), with a backend Flask server.
 
