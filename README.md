@@ -1,5 +1,5 @@
 # A Simple Portfolio Website
-A Portfolio website built using HTML, CSS & JavaScript (from a HTML template), with a Flask server.
+A Portfolio website built using HTML, CSS & JavaScript (from a HTML template), with a backend Flask server.
 
 - Click here to visit: [donmarvex.pythonanywhere.com](http://donmarvex.pythonanywhere.com/)
 
